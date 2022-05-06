@@ -1,8 +1,6 @@
 ### Olá, eu sou a Karina 👋
 
-
-- 🔭 Sou desenvolvedora full stack
-- 🖥️ Trabalho na Pulse, a software house do grupo Mateus
+- Graduada em Ciência da Computação pela faculdade Pitágoras, possui 3 anos e 10 meses de experiência com desenvolvimento de sistemas. Atualmente atua como programadora na Pulse, a software house do Grupo Mateus, a quarta maior empresa de varejo do país. É Integrante da squad responsável por desenvolver e prestar manutenção para o ERP que realiza a gestão do estoque do Grupo.
 
 <div align="center">
   <a href="https://github.com/karinaerikads">
