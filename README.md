@@ -1,6 +1,6 @@
 ### Olá, eu sou a Karina 👋
 
-- Graduada em Ciência da Computação pela faculdade Pitágoras, possuo 3 anos e 10 meses de experiência em TI. Atualmente atuo como programadora na Pulse, a software house do Grupo Mateus, a quarta maior empresa de varejo do país. Na Pulse, sou integrante da squad responsável por desenvolver e prestar manutenção para o ERP que realiza a gestão do estoque do Grupo Mateus. 
+- Engenheira de software na PagBanck PagSeguro. 
 
 <div align="center">
   <a href="https://github.com/karinaerikads">
