@@ -1,6 +1,6 @@
 ### Olá, eu sou a Karina 👋
 
-- Engenheira de software na PagBanck PagSeguro. 
+- Sou graduada em Ciência da computação e possuo 6 anos de experiência dentro da área de TI. Já atuei em empresas do ramo bancário, varejo e de saúde, onde adiquiri sólida experiência em desenvolvimento de software. 
 
 <div align="center">
   <a href="https://github.com/karinaerikads">
